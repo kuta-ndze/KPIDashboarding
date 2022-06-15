@@ -27,3 +27,9 @@ Allows you to break down the data , explore information by categories, subcatego
 Will be able to navigate directly to product details while in executive summary page with a link. Here you should be able to see specific product performance, provide insights like pasing against targets, profit trending over time and forecast into the future and even scenario test to see the impact of pricing adjustments on actual bottom line company profits.
 
 ![Product details](https://github.com/kuta-ndze/KPIDashboarding/blob/main/advwrks2.jpg)
+
+**Section 1 Customer Details**
+
+This view we can see top revenue driving customers, breakdown by demographics (gender, income level and occupation), Orders by age, top customers and top line metrics and bookmarks and links.
+
+![Customer Details](https://github.com/kuta-ndze/KPIDashboarding/blob/main/advwrks3.jpg)
