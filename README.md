@@ -17,6 +17,7 @@ Design and Deliver and end-to-end business intelligence solution using the [Adve
 Three main sections:
 
 **Section 1**
+
 Allows you to break down the data , explore information by categories, subcategories, explore core business KPIs, revenue, order volume and returns for the current month, snapshots of most ordered product and top revenue product and the ability to filter down the entire page by specific regions, drill through functionality to dive deeper into specific product performance.
 
 ![Executive Summary](https://github.com/kuta-ndze/KPIDashboarding/blob/main/advwrks1.jpg)
