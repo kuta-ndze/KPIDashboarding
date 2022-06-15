@@ -1,5 +1,0 @@
-## `💨DASHBOARDS `
-
----
-
-**_OBJECTIVE_**
