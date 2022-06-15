@@ -8,7 +8,7 @@
 
 **_OBJECTIVE_**
 
-Design and Deliver and end-to-end business intelligence solution using the [Adventure Works Cycles](https://github.com/kuta-ndze/KPIDashboarding/blob/main/AdventureWorks.pdf) that should be able to do the followings:
+Design an end-to-end business intelligence solution using the [Adventure Works Cycles](https://github.com/kuta-ndze/KPIDashboarding/blob/main/AdventureWorks.pdf) that should be able to do the followings:
 
 - Track **KPIs** (_Sales, Revenue, Profit, Returns_), compare regional performance, analyze product-level trends and forecasts, and identify high-value customers.
 - Build a relational data model
