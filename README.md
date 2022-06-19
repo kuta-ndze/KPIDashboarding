@@ -2,7 +2,7 @@
 
 ---
 
-## Use your PowerBi account to view solution here 👉🏽 [Solution](https://app.powerbi.com/groups/me/reports/20966b59-97bf-4952-bbe0-1bd98d1aa3c1/ReportSection?bookmarkGuid=10fa1eaf-7f5b-44c5-9283-5770e6d032be&bookmarkUsage=1&ctid=085f983a-0b69-4270-b71d-10695076bafe&fromEntryPoint=export)
+## View interactive solution here 👉🏽 [Solution](https://app.powerbi.com/groups/me/reports/20966b59-97bf-4952-bbe0-1bd98d1aa3c1/ReportSection?bookmarkGuid=10fa1eaf-7f5b-44c5-9283-5770e6d032be&bookmarkUsage=1&ctid=085f983a-0b69-4270-b71d-10695076bafe&fromEntryPoint=export)
 
 ---
 
